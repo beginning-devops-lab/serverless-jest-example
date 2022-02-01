@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1643677637450" clover="3.2.0">
-  <project timestamp="1643677637451" name="All files">
+<coverage generated="1643678854286" clover="3.2.0">
+  <project timestamp="1643678854286" name="All files">
     <metrics statements="11" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="1" elements="18" coveredelements="8" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1">
       <file name="handler.js" path="/Users/noelnuguid/Storage/Truuth/serverless-jest-example/handler.js">
         <metrics statements="11" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="1"/>
