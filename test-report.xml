@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/noelnuguid/Storage/Truuth/serverless-jest-example/__tests__/handler.test.js">
+    <testCase name="correct greeting is generated" duration="2"/>
+  </file>
+</testExecutions>
